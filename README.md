@@ -1,5 +1,7 @@
 # Hayvanat Bahçesi Projesi
 
+## Problem 
+
 500'e 500'lük bir alanda yaşayan 30 koyun (15 erkek,15 dişi), 10 inek (5 erkek,5 dişi), 10 tavuk,10 kurt
 (5 dişi,5 erkek) 10 horoz, 8 aslan (4 erkek, 4 dişi) ve 1 avcı bulunmaktadır. </br>  </br>
 Hayvanlardan; </br>
@@ -17,3 +19,7 @@ avcıda kendisine 8 birim yakınlıktaki hayvanlardan herhangi birisini avlayabi
 aynı cins farklı cinsiyetteki hayvanlar birbirine 3 birim yakınlaştığı zaman random cinsiyetli ve aynı cins
 bir hayvan meydana gelmektedir. </br>  </br>
 1000 birim hareket sonunda hayvanların sayısının bulunduğu bir Python application yazınız. </br>
+
+## Çözüm
+
+Detaylı açıklama için [link](https://github.com/yasinturkmenogluu/Hayvanat-Bahcesi-Projesi/blob/main/%C3%A7%C3%B6z%C3%BCm.pdf)'ten faydalanabilirsiniz.
